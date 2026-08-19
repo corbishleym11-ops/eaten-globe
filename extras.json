@@ -1,0 +1,638 @@
+{
+ "delivery": [
+  {
+   "service": "DoorDash",
+   "name": "Chipotle",
+   "orders": 15,
+   "spent": 371.14,
+   "first": "2023-01-23",
+   "last": "2026-05-15",
+   "years": [
+    2023,
+    2025,
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Thai Twist",
+   "orders": 13,
+   "spent": 572.78,
+   "first": "2025-04-04",
+   "last": "2026-08-08",
+   "years": [
+    2025,
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Bul Box",
+   "orders": 9,
+   "spent": 234.85,
+   "first": "2025-07-12",
+   "last": "2026-08-12",
+   "years": [
+    2025,
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Taza Grill",
+   "orders": 9,
+   "spent": 230.88,
+   "first": "2023-03-15",
+   "last": "2025-12-06",
+   "years": [
+    2023,
+    2024,
+    2025
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Jersey Mike's",
+   "orders": 6,
+   "spent": 128.13,
+   "first": "2025-01-04",
+   "last": "2026-07-31",
+   "years": [
+    2025,
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Panera Bread",
+   "orders": 6,
+   "spent": 201.03,
+   "first": "2024-02-27",
+   "last": "2026-05-11",
+   "years": [
+    2024,
+    2025,
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Five Guys",
+   "orders": 5,
+   "spent": 150.59,
+   "first": "2023-06-28",
+   "last": "2026-05-12",
+   "years": [
+    2023,
+    2024,
+    2025,
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Goodberry's Frozen Custard",
+   "orders": 5,
+   "spent": 80.49,
+   "first": "2026-05-09",
+   "last": "2026-07-16",
+   "years": [
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Hibachi Japan",
+   "orders": 5,
+   "spent": 95.68,
+   "first": "2023-03-03",
+   "last": "2024-06-05",
+   "years": [
+    2023,
+    2024
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Moe's Southwest Grill",
+   "orders": 5,
+   "spent": 127.81,
+   "first": "2023-10-08",
+   "last": "2026-05-06",
+   "years": [
+    2023,
+    2024,
+    2025,
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Taco Bell",
+   "orders": 5,
+   "spent": 120.38,
+   "first": "2023-08-12",
+   "last": "2026-01-22",
+   "years": [
+    2023,
+    2024,
+    2025,
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "The Bowls",
+   "orders": 5,
+   "spent": 126.7,
+   "first": "2023-05-27",
+   "last": "2024-02-01",
+   "years": [
+    2023,
+    2024
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Thaiphoon Bistro",
+   "orders": 4,
+   "spent": 134.09,
+   "first": "2023-03-26",
+   "last": "2024-11-09",
+   "years": [
+    2023,
+    2024
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "The Poke Re…",
+   "orders": 4,
+   "spent": 174.14,
+   "first": "2025-02-06",
+   "last": "2025-09-23",
+   "years": [
+    2025
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Chopstix",
+   "orders": 3,
+   "spent": 150.53,
+   "first": "2023-01-14",
+   "last": "2026-01-10",
+   "years": [
+    2023,
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Farmside Kitchen",
+   "orders": 3,
+   "spent": 69.84,
+   "first": "2026-04-24",
+   "last": "2026-07-23",
+   "years": [
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Happy + Hale",
+   "orders": 3,
+   "spent": 126.95,
+   "first": "2023-04-16",
+   "last": "2024-06-03",
+   "years": [
+    2023,
+    2024
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Masala House",
+   "orders": 3,
+   "spent": 144.88,
+   "first": "2025-11-14",
+   "last": "2026-02-19",
+   "years": [
+    2025,
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Ponysaurus Brewing",
+   "orders": 3,
+   "spent": 144.06,
+   "first": "2025-05-24",
+   "last": "2025-12-20",
+   "years": [
+    2025
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Timber Pizza Co.",
+   "orders": 3,
+   "spent": 75.73,
+   "first": "2025-03-16",
+   "last": "2025-11-19",
+   "years": [
+    2025
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Tropical Smoothie Cafe",
+   "orders": 3,
+   "spent": 64.1,
+   "first": "2024-01-17",
+   "last": "2025-03-16",
+   "years": [
+    2024,
+    2025
+   ]
+  },
+  {
+   "service": "Uber Eats",
+   "name": "Uber Eats order",
+   "orders": 3,
+   "spent": 142.15,
+   "first": "2024-08-31",
+   "last": "2025-07-20",
+   "years": [
+    2024,
+    2025
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Bruegger's Bagels",
+   "orders": 2,
+   "spent": 33.04,
+   "first": "2023-02-05",
+   "last": "2023-03-19",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Carolina Ale House",
+   "orders": 2,
+   "spent": 58.53,
+   "first": "2023-09-04",
+   "last": "2023-11-03",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Chido Taco",
+   "orders": 2,
+   "spent": 40.47,
+   "first": "2025-12-02",
+   "last": "2026-01-12",
+   "years": [
+    2025,
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Chopt Creative Salad Co.",
+   "orders": 2,
+   "spent": 45.43,
+   "first": "2025-06-27",
+   "last": "2025-07-11",
+   "years": [
+    2025
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Diced",
+   "orders": 2,
+   "spent": 76.76,
+   "first": "2025-07-27",
+   "last": "2026-02-23",
+   "years": [
+    2025,
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Guasaca",
+   "orders": 2,
+   "spent": 57.85,
+   "first": "2024-04-21",
+   "last": "2024-10-04",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Jumbo China",
+   "orders": 2,
+   "spent": 85.8,
+   "first": "2024-06-08",
+   "last": "2024-07-14",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Oakwood Pizza Box",
+   "orders": 2,
+   "spent": 121.52,
+   "first": "2023-07-23",
+   "last": "2026-02-14",
+   "years": [
+    2023,
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Poke Loong",
+   "orders": 2,
+   "spent": 92.06,
+   "first": "2026-02-24",
+   "last": "2026-03-16",
+   "years": [
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Sup Dogs",
+   "orders": 2,
+   "spent": 49.93,
+   "first": "2026-04-26",
+   "last": "2026-04-27",
+   "years": [
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Ton Noodle…",
+   "orders": 2,
+   "spent": 47.1,
+   "first": "2026-07-11",
+   "last": "2026-08-07",
+   "years": [
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Torchy's Tacos",
+   "orders": 2,
+   "spent": 69.8,
+   "first": "2025-02-16",
+   "last": "2025-05-18",
+   "years": [
+    2025
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Winston's…",
+   "orders": 2,
+   "spent": 99.54,
+   "first": "2025-10-04",
+   "last": "2025-10-06",
+   "years": [
+    2025
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Anise Pho",
+   "orders": 1,
+   "spent": 24.52,
+   "first": "2023-07-31",
+   "last": "2023-07-31",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Bibibop Asian Grill",
+   "orders": 1,
+   "spent": 25.51,
+   "first": "2024-09-29",
+   "last": "2024-09-29",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Bombay Darbar",
+   "orders": 1,
+   "spent": 81.81,
+   "first": "2024-11-17",
+   "last": "2024-11-17",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Einstein Bros. Bagels",
+   "orders": 1,
+   "spent": 35.42,
+   "first": "2023-05-07",
+   "last": "2023-05-07",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Golden Dragon",
+   "orders": 1,
+   "spent": 38.05,
+   "first": "2023-07-14",
+   "last": "2023-07-14",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Insomnia Cookies",
+   "orders": 1,
+   "spent": 22.51,
+   "first": "2025-05-24",
+   "last": "2025-05-24",
+   "years": [
+    2025
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Iso Iso Ramen",
+   "orders": 1,
+   "spent": 44.72,
+   "first": "2024-05-15",
+   "last": "2024-05-15",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Jeff's Bagels",
+   "orders": 1,
+   "spent": 22.15,
+   "first": "2026-08-15",
+   "last": "2026-08-15",
+   "years": [
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Mustang House",
+   "orders": 1,
+   "spent": 37.32,
+   "first": "2025-12-23",
+   "last": "2025-12-23",
+   "years": [
+    2025
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Papa John's",
+   "orders": 1,
+   "spent": 28.18,
+   "first": "2023-09-17",
+   "last": "2023-09-17",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Piada Italian Street Food",
+   "orders": 1,
+   "spent": 18.49,
+   "first": "2024-01-05",
+   "last": "2024-01-05",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Poke Bar",
+   "orders": 1,
+   "spent": 26.47,
+   "first": "2023-01-17",
+   "last": "2023-01-17",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Popeyes",
+   "orders": 1,
+   "spent": 45.25,
+   "first": "2024-05-22",
+   "last": "2024-05-22",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Salt & Lime Cabo Grill",
+   "orders": 1,
+   "spent": 76.21,
+   "first": "2026-07-25",
+   "last": "2026-07-25",
+   "years": [
+    2026
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Sushi Thai",
+   "orders": 1,
+   "spent": 32.24,
+   "first": "2025-01-24",
+   "last": "2025-01-24",
+   "years": [
+    2025
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Wendy's",
+   "orders": 1,
+   "spent": 22.26,
+   "first": "2025-03-18",
+   "last": "2025-03-18",
+   "years": [
+    2025
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Wings Over",
+   "orders": 1,
+   "spent": 32.54,
+   "first": "2023-01-06",
+   "last": "2023-01-06",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "service": "DoorDash",
+   "name": "Wong's Taco…",
+   "orders": 1,
+   "spent": 21.92,
+   "first": "2026-08-01",
+   "last": "2026-08-01",
+   "years": [
+    2026
+   ]
+  }
+ ],
+ "unmapped": [
+  {
+   "name": "Starbucks (app reloads)",
+   "category": "cafe",
+   "city": "",
+   "region": "",
+   "country": "",
+   "lat": null,
+   "lng": null,
+   "visits": 86,
+   "spent": 1485.0,
+   "first": "2023-02-18",
+   "last": "2026-08-08",
+   "years": [
+    2023,
+    2024,
+    2025,
+    2026
+   ],
+   "approx": true
+  }
+ ]
+}
